@@ -1,0 +1,3 @@
+
+class PythonError(Exception):
+    pass
